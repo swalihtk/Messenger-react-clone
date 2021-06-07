@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.app-p-username{
+  opacity: 30%;
+  font-weight: 600;
+  position:absolute;
+  font-size: 20px;
+  top:20px;
+  right:10px;
+  padding:20px;
+  border:1px solid lightgray;
+}
+
+.app-form{
+  position:fixed;
+  padding:20px;
+  width: 100%;
+  bottom: 0;
+  z-index: 1;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: lightgray;
+}
+
+.app-formControl{
+  display:flex !important;
+  flex-direction: row !important;
+}
+
+.app-input-form{
+  flex:1;
+}
+
+.app-button-form{
+  margin-right:30px !important;
+}

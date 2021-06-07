@@ -1,0 +1,24 @@
+.messages-user{
+    width: fit-content;
+    padding:10px;
+    margin-left: auto;
+}
+
+.messages-guest{
+    width: fit-content;
+    padding:10px;
+}
+
+.messages-typography{
+    text-align: left;
+    font-size:small !important;
+    font-weight: 600 !important;
+}
+
+.card-user{
+    background-color:rgb(98, 98, 236) !important;
+}
+
+.card-guest{
+    background-color: lightgray !important;
+}
